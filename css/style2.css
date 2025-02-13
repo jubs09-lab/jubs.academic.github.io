@@ -1,0 +1,220 @@
+body{
+    background-color: #9efbff;
+    min-height: 100vh;
+}
+.teste img {
+    width: 1400px;
+    height: auto;
+    margin-left: 200px;
+
+}
+
+
+nav ul {
+    list-style: none;
+    margin-top: -800px;
+    margin-left: 339px;
+    
+}
+nav ul li {
+    display: inline-block;
+    
+}
+nav ul li a{
+    padding: 10px 20px;
+    text-decoration: black;
+    font-size: 25px;
+    color: rgb(255, 250, 250);
+    border-radius: 30px;
+    
+}
+nav ul li a:hover{
+    background-color: rgb(0, 71, 112);
+    
+}
+.curio img {
+    max-width: 1900px;
+    
+}
+.mim {
+    margin-top: -1000px;
+    font-size: 25px;
+    margin-left: 300px;
+   
+}
+.seta1 img {
+   
+    position: relative;
+    margin-top: -20px;
+}
+.cont {
+    max-width: 1400px;
+    padding: 3%;
+    margin: 0 auto;
+}
+
+.form-container {
+    background-color: rgb(0, 96, 151);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgb(0, 185, 176);
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+}
+.form-container h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #ffffff;
+}
+.form-container input, .form-container textarea {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #00346e;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.form-container input:focus, .form-container textarea:focus {
+    border-color: #025d99;
+    outline: none;
+}
+.form-container button {
+    background-color: rgb(126, 240, 255);;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+.form-container button:hover {
+    background-color: rgb(126, 240, 255);;
+}
+
+.fot img{
+    max-width: 200px;
+    margin-top: -900px;
+    height: auto;
+    margin-left: 600px;
+}
+.pict img {
+    max-width: 400px;
+    margin-top: -330px;
+    height: auto;
+    margin-left: 700px;
+}
+.tip img{
+    max-width: 400px;
+    margin-top: -1499px;
+    height: auto;
+    margin-left: 909px;
+
+}
+
+.becki img{
+    margin-top: -300px;
+
+}
+
+footer {
+   
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px 0;
+    margin-top: auto; /* Empurra o rodapé para o final */
+}
+
+.calcu img {
+    width: 199px ;
+    height: auto;
+}
+
+.conver img {
+    width: 310px;
+height: auto;
+margin-left: -20px ;
+}
+input,button,select {
+    background-color: rgb(126, 240, 255);
+   
+    
+}
+
+
+.quiz img {
+    width: 409px;
+    margin-top: -43px;
+    margin-left: -60px ;
+}
+
+
+.peso img {
+    width: 229px;
+    margin-top: -60px;
+}
+
+
+.jogo img {
+    width: 309px;
+    margin-left: -54px ;
+    
+
+}
+
+.adv img {
+    max-width: 1000px;
+}
+
+.lady {
+font-size: 50px;
+margin-top: -500px;
+margin-left: 300px;
+}
+
+.barb {
+    margin-top: -60px;
+    margin-left: 500px;
+    font-size: 27px;
+}
+.ajusxt img{
+    margin-top: -19px;
+    margin-left: 170px;
+}
+.quiz-container {
+    background-color: #8afff9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.junio img {
+margin-top: -125px;
+margin-left: 220px;
+}
+input[type='radio']:after {
+    accent-color:rgb(95, 250, 255);
+    border: 2px solid #008cff;
+    background-color: #ffffff;
+    content: "  ";
+    width: 12px;
+    height: 12px;
+    border-radius: 15px;
+    display: inline-block;
+    position: relative;
+    top: -1.7px;
+    left: -1.9px;
+}
+input[type='radio']:checked:after {
+    accent-color:rgb(131, 255, 255);
+    border: 2px solid #86e7ff;
+    background-color: #0021b3;
+    content: "  ";
+    width: 12px;
+    height: 12px;
+    border-radius: 15px;
+    display: inline-block;
+    position: relative;
+    top: -1.7px;
+    left: -1.9px;
+}
